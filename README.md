@@ -3,3 +3,5 @@
 # add first modification
 
 ## Salvando alterações no GitHub
+
+* comando git push 
