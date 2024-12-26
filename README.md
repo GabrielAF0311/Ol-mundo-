@@ -4,4 +4,4 @@
 
 ## Salvando alterações no GitHub
 
-* comando git push 
+* Uso do comando 
